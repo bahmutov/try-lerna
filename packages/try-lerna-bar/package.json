@@ -1,0 +1,29 @@
+{
+  "name": "@bahmutov/try-lerna-bar",
+  "version": "1.0.0",
+  "description": "trying lerna package bar",
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com)",
+  "homepage": "https://github.com/bahmutov/try-lerna#readme",
+  "license": "ISC",
+  "main": "lib/try-lerna-bar.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/try-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bahmutov/try-lerna/issues"
+  }
+}
