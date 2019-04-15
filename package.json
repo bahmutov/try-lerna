@@ -5,6 +5,8 @@
     "lerna": "^3.13.2"
   },
   "scripts": {
-    "new-version": "lerna version --conventional-commits"
+    "new-version": "lerna version --conventional-commits",
+    "postinstall": "lerna bootstrap",
+    "test": "node packages/try-lerna-bar"
   }
 }
