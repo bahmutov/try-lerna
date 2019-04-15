@@ -1,7 +1,5 @@
 'use strict';
 
-module.exports = tryLernaBar;
+const foo = require('try-lerna-foo')
 
-function tryLernaBar() {
-    // TODO
-}
+module.exports = 'bar + foo=' + foo;

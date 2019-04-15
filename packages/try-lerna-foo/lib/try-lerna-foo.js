@@ -1,7 +1,3 @@
 'use strict';
 
-module.exports = tryLernaFoo;
-
-function tryLernaFoo() {
-    // TODO
-}
+module.exports = 'foo';

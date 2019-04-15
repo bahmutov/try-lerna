@@ -27,6 +27,7 @@
     "url": "https://github.com/bahmutov/try-lerna/issues"
   },
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "try-lerna-foo": "1.0.1"
   }
 }
