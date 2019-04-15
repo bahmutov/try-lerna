@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "try-lerna-foo": "1.0.1"
+    "@bahmutov/try-lerna-foo": "^1.0.1"
   }
 }
