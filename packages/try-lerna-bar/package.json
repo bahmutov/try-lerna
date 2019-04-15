@@ -1,6 +1,6 @@
 {
   "name": "@bahmutov/try-lerna-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "trying lerna package bar",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com)",
   "homepage": "https://github.com/bahmutov/try-lerna#readme",
